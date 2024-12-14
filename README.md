@@ -15,7 +15,7 @@
 - 💬 Feel free to ask me anything about Flutter
 - 📫 Reach me at: [pm02duc@gmail.com](mailto:pm02duc@gmail.com)
 - 😄 Check out my work: [Projects](https://github.com/Duc15)
-- ✔*Github :* [DVSoai](https://github.com/Duc15)
+- ✔*Github :* [Duc15](https://github.com/Duc15)
 
 ## 🌐 Connect with Me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/duckbidv) 
